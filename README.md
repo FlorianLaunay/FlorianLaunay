@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**FlorianLaunay/FlorianLaunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working for Ecritel Group as a DevOps/SysOps Engineer
+- 🌱 I’m interested by all stuff that can help me to progress
+- 👯 I’m looking to collaborate on projects related to Ansible world
+- 💬 Ask me about all you need. Glad to help you 😉
+- ⚡ Not born as DevOps. Formerly an old Linux System Engineer who fell into the magic of pipelines 🤯
 
-Here are some ideas to get you started:
+[![FlorianLaunays's GitHub stats](https://github-readme-stats.vercel.app/api?username=florianlaunay&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Please trust me 🤨
+
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMkzky8oplAHP+4+IUikKkOFgeMgsg7G3ymp7LbTvEbO @FlorianLaunay
+```
